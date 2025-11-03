@@ -10,10 +10,11 @@
 
 - 🎓 Soy **desarrollador junior** con formación en **programación y desarrollo web**.  
 - 💻 Me gusta crear aplicaciones útiles que solucionen problemas reales.  
-- 🌱 Actualmente estoy aprendiendo **Java, Spring Boot y React**.  
-- 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend y PWA**.  
+- 🌱 Actualmente estoy aprendiendo **Java, Spring Boot, Angular y React**.  
+- 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend, PWA y APIs REST**.  
+- 🧩 Experiencia en herramientas de **gestión de proyectos (CGP)** y control de versiones.  
 - 🤝 Abierto a oportunidades de **primer empleo o prácticas profesionales**.  
-- ⚡ Me interesa el desarrollo de **apps modernas, APIs y proyectos con IA**.  
+- ⚡ Me interesa el desarrollo de **apps modernas, integraciones con IA y automatización**.  
 - 📫 Puedes contactarme: **yhonierarias.dev@gmail.com**
 
 ---
@@ -33,6 +34,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
 </p>
 
@@ -42,6 +44,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white">
 </p>
 
@@ -51,6 +54,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white">
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  <img alt="Terminal" src="https://img.shields.io/badge/Terminal-%23000000.svg?style=plastic&logo=windows-terminal&logoColor=white">
+  <img alt="CGP" src="https://img.shields.io/badge/CGP-%23FFDD00.svg?style=plastic&logo=notion&logoColor=black">
 </p>
 
 ### 🧠 En aprendizaje
