@@ -11,11 +11,10 @@
 - 🎓 Soy **desarrollador junior** con formación en **programación y desarrollo web**.  
 - 💻 Me gusta crear aplicaciones útiles que solucionen problemas reales.  
 - 🌱 Actualmente estoy aprendiendo **Java, Spring Boot, Angular y React**.  
-- 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend, PWA y APIs REST**.  
-- 🧩 Experiencia en herramientas de **gestión de proyectos (CGP)** y control de versiones.  
-- 🤝 Abierto a oportunidades de **primer empleo o prácticas profesionales**.  
+- 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend**.  
+- 🤝 Abierto a oportunidades. 
 - ⚡ Me interesa el desarrollo de **apps modernas, integraciones con IA y automatización**.  
-- 📫 Puedes contactarme: **yhonierarias.dev@gmail.com**
+- 📫 Puedes contactarme: **jhonier18249@gmail.com**
 
 ---
 
