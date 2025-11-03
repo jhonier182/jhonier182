@@ -67,36 +67,4 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<details>
-<summary><b>🔥 Actividad reciente</b></summary>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yhonierarias&theme=tokyonight_duo" alt="GitHub Streak" /></p>
-
-</details>
-
-<details>
-<summary><b>💻 Lenguajes más usados</b></summary>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhonierarias&layout=compact&theme=tokyonight" alt="Top Langs" /></p>
-
-</details>
-
-<details>
-<summary><b>📊 Actividad del perfil</b></summary>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yhonierarias&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
-
-</details>
-
----
-
-## 🐍 Snake de contribuciones
-<p align="center">
-  <img src="https://github.com/yhonierarias/yhonierarias/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">💡 “La mejor manera de aprender a programar es construyendo cosas que te apasionen.”</p>
