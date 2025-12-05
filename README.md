@@ -10,7 +10,7 @@
 
 - 🎓 Soy **desarrollador junior** con formación en **programación y desarrollo web**.  
 - 💻 Me gusta crear aplicaciones útiles que solucionen problemas reales.  
-- 🌱 Actualmente estoy aprendiendo **Java, Spring Boot, Angular y React**.  
+- 🌱 Actualmente estoy con  **Java, Spring Boot, Angular y React**.  
 - 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend**.  
 - 🤝 Abierto a oportunidades. 
 - ⚡ Me interesa el desarrollo de **apps modernas, integraciones con IA y automatización**.  
