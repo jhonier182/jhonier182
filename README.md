@@ -1,26 +1,26 @@
-<h1 align="center">Hola 👋, soy Yhonier Arias</h1>
-<h3 align="center">Desarrollador Junior Full Stack | Apasionado por crear soluciones digitales</h3>
+<h1 align="center">Hi 👋, I'm Yhonier Arias</h1>
+<h3 align="center">Junior Full Stack Developer | Passionate about building digital solutions</h3>
 
 <br>
 
-## 💫 Sobre mí
+## 💫 About Me
 <picture> 
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </picture>
 
-- 🎓 Soy **desarrollador junior** con formación en **programación y desarrollo web**.  
-- 💻 Me gusta crear aplicaciones útiles que solucionen problemas reales.  
-- 🌱 Actualmente estoy con  **Java, Spring Boot, Angular y React**.  
-- 🚀 Trabajo en proyectos personales para fortalecer mis habilidades en **backend**.  
-- 🤝 Abierto a oportunidades. 
-- ⚡ Me interesa el desarrollo de **apps modernas, integraciones con IA y automatización**.  
-- 📫 Puedes contactarme: **jhonier18249@gmail.com**
+- 🎓 I am a **Junior Developer** with a background in **programming and web development**.  
+- 💻 I enjoy building useful applications that solve real-world problems.  
+- 🌱 Currently working with **Java, Spring Boot, Angular, and React**.  
+- 🚀 I work on personal projects to strengthen my **backend** skills.  
+- 🤝 Open to new opportunities.  
+- ⚡ Interested in developing **modern apps, AI integrations, and automation**.  
+- 📫 How to reach me: **jhonier18249@gmail.com**
 
 ---
 
-## 🛠️ Habilidades
+## 🛠️ Skills
 
-### 💻 Lenguajes de programación
+### 💻 Programming Languages
 <p align="center"> 
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
@@ -36,7 +36,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white">
 </p>
 
-### ⚙️ Backend & Bases de datos
+### ⚙️ Backend & Databases
 <p align="center"> 
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white">
@@ -46,7 +46,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white">
 </p>
 
-### 🧰 Herramientas & Control de versiones
+### 🧰 Tools & Version Control
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
@@ -56,7 +56,7 @@
   <img alt="CGP" src="https://img.shields.io/badge/CGP-%23FFDD00.svg?style=plastic&logo=notion&logoColor=black">
 </p>
 
-### 🧠 En aprendizaje
+### 🧠 Currently Learning
 <p align="center">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=plastic&logo=firebase&logoColor=white">
@@ -65,4 +65,4 @@
 
 ---
 
-<p align="center">💡 “La mejor manera de aprender a programar es construyendo cosas que te apasionen.”</p>
+<p align="center">💡 “The best way to learn programming is by building things you're passionate about.”</p>
