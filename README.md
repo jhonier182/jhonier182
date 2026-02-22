@@ -60,6 +60,8 @@
 <p align="center">
   
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=plastic&logo=firebase&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white">
 </p>
 
 ---
